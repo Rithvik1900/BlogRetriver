@@ -1,0 +1,7 @@
+gensim
+nltk
+rank-bm25
+pandas
+numpy
+streamlit
+streamlit-aggrid
